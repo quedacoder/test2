@@ -82,3 +82,8 @@ p_text = |Hello world|.
 | header        | title                | Here's this         |
 | paragraph     | text                 | and more            |
 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
