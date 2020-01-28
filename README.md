@@ -77,13 +77,16 @@ p_text = |Hello world|.
 
 ### Example of Tables
 
-| Syntax          | Description           | Test Text          |
+| Syntax        | Description          | Test Text           |
 | :------------ | :-----------------:  | -----------------:  | 
 | header        | title                | Here's this         |
 | paragraph     | text                 | and more            |
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
 
+***
+
+### Example of Todo List
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
