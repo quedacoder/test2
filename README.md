@@ -22,7 +22,7 @@ For ~~strikethrough~~ use 2 preceding and trailing tides
 ### Example of Ordered List
 1. First Item
 2. Second Item
-    * . This is a sub item
+    * This is a sub item
 3. Third Item
 4. Fourth Item
 
