@@ -45,3 +45,12 @@ For ~~strikethrough~~ use 2 preceding and trailing tides
 
 ### Example of Image 
 ![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Octocat")
+
+***
+
+### Example of Code
+```java
+public static void main(String[] args) {
+   System.out.println("Hello World");
+}
+```  
