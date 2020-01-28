@@ -72,3 +72,12 @@ p_text = |Hello world|.
 > This is one line of text
 > 
 > This is the second line
+
+***
+
+### Example of Tables
+
+| Syntax    | Description | Test Text    |
+| --- | --------- | ---------- |
+| header | title | Here's this |
+| paragraph | text | and more |
