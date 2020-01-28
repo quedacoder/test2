@@ -65,3 +65,9 @@ start-of-selection.
 p_number = 1.
 p_text = |Hello world|.
 ```
+
+***
+
+### Example of Blockquotes
+> This is one line of text
+> This is the second line
