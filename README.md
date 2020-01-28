@@ -54,3 +54,12 @@ public static void main(String[] args) {
    System.out.println("Hello World");
 }
 ```  
+
+```abap
+Data: p_number type i,
+      p_text type string.
+      
+start-of-selection.
+p_number = 1.
+p_text = |Hello world|.
+```
