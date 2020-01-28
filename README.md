@@ -77,7 +77,7 @@ p_text = |Hello world|.
 
 ### Example of Tables
 
-| Syntax    | Description | Test Text    |
-| :------------ | :-----------------: | -----------------: |
-| header | title | Here's this |
-| paragraph | text | and more |
+| Syntax        | Description          | Test Text           |
+| :------------ | :-----------------:  | -----------------:  | 
+| header        | title                | Here's this         |
+| paragraph     | text                 | and more            |
