@@ -44,4 +44,4 @@ For ~~strikethrough~~ use 2 preceding and trailing tides
 ***
 
 ### Example of Image 
-1[Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Octocat")
+![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Octocat")
