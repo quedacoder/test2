@@ -11,3 +11,19 @@ For _italics_ use 1 preceding and trailing underscore
 For __bold__ use 2 preceding and trailing underscores
 
 For ~~strikethrough~~ use 2 preceding and trailing tides
+
+***
+
+### Example of Ordered List
+1. First Item
+2. Second Item
+3. Third Item
+4. Fourth Item
+
+***
+
+### Example of Unordered List
+- First Item
+- Second Item
+- Third Item
+- Fourth Item
