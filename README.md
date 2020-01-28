@@ -33,3 +33,8 @@ For ~~strikethrough~~ use 2 preceding and trailing tides
 - Second Item
 - Third Item
 - Fourth Item
+
+***
+
+### Example of Inline Links
+[This is a link to my github repository](https://github.com/quedacoder "GitHub")
