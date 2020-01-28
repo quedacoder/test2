@@ -40,3 +40,8 @@ For ~~strikethrough~~ use 2 preceding and trailing tides
 [This is a link to my github repository](https://github.com/quedacoder "GitHub")
 
 [This is a relative reference link](/README.md "README file")
+
+***
+
+### Example of Image 
+1[Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Octocat")
