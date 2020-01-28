@@ -9,7 +9,7 @@ _____
 
 ***
 
-### Example of Emphasis
+### Example of Italics, Bold, and Strikethrough
 
 For _italics_ use 1 preceding and trailing underscore
 
@@ -22,6 +22,7 @@ For ~~strikethrough~~ use 2 preceding and trailing tides
 ### Example of Ordered List
 1. First Item
 2. Second Item
+  - Adding a sub item
 3. Third Item
 4. Fourth Item
 
